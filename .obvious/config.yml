@@ -1,0 +1,4 @@
+# smolvm — obvious repo policy
+# Default branch and merge methods auto-detected from GitHub repo settings.
+branch: main
+mergeMethod: merge
